@@ -14,7 +14,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "yap-it Monitor",
+  title: "Yap-It Monitor",
   description: "Real-time intelligence dashboard",
 };
 
